@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodGaussa", "MetodGaussa.csproj", "{A558A4E7-7963-4875-BDE7-73BE6199852E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A558A4E7-7963-4875-BDE7-73BE6199852E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A558A4E7-7963-4875-BDE7-73BE6199852E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A558A4E7-7963-4875-BDE7-73BE6199852E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A558A4E7-7963-4875-BDE7-73BE6199852E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017091CA-8FD1-4173-9FDD-63D71ED06567}
+	EndGlobalSection
+EndGlobal
