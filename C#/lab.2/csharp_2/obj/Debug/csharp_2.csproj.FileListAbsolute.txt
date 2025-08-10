@@ -1,0 +1,91 @@
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\bin\Debug\csharp_2.exe.config
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\bin\Debug\csharp_2.exe
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\bin\Debug\csharp_2.pdb
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.csprojAssemblyReference.cache
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.Form1.resources
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.Form2.resources
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.Form3.resources
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.Form4.resources
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.Properties.Resources.resources
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.GenerateResource.cache
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.CoreCompileInputs.cache
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.exe
+C:\Users\Sheronov\source\repos\csharp_2\csharp_2\obj\Debug\csharp_2.pdb
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\bin\Debug\csharp_2.exe.config
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\bin\Debug\csharp_2.exe
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\bin\Debug\csharp_2.pdb
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.AssemblyReference.cache
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.Form1.resources
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.Form2.resources
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.Form3.resources
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.Form4.resources
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.Properties.Resources.resources
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.GenerateResource.cache
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.CoreCompileInputs.cache
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.exe
+Y:\ИСТ-21-1\Клочков Андрей и Колчин Александр\C# и ООП\C# [Готово]\csharp_2\csharp_2\obj\Debug\csharp_2.pdb
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\bin\Debug\csharp_2.exe.config
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\bin\Debug\csharp_2.exe
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\bin\Debug\csharp_2.pdb
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.AssemblyReference.cache
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Form1.resources
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Form2.resources
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Form3.resources
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Form4.resources
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Properties.Resources.resources
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.GenerateResource.cache
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.CoreCompileInputs.cache
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.exe
+Y:\ПИМ-21-1\Окулова Анна ПИМ-21-1\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.pdb
+E:\ао\C#\С# все работы\csharp_2\csharp_2\bin\Debug\csharp_2.exe.config
+E:\ао\C#\С# все работы\csharp_2\csharp_2\bin\Debug\csharp_2.exe
+E:\ао\C#\С# все работы\csharp_2\csharp_2\bin\Debug\csharp_2.pdb
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.AssemblyReference.cache
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Form1.resources
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Form2.resources
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Form3.resources
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Form4.resources
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.Properties.Resources.resources
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.GenerateResource.cache
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.CoreCompileInputs.cache
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.exe
+E:\ао\C#\С# все работы\csharp_2\csharp_2\obj\Debug\csharp_2.pdb
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\bin\Debug\csharp_2.exe.config
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\bin\Debug\csharp_2.exe
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\bin\Debug\csharp_2.pdb
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.AssemblyReference.cache
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.Form1.resources
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.Form2.resources
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.Form3.resources
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.Form4.resources
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.Properties.Resources.resources
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.GenerateResource.cache
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.CoreCompileInputs.cache
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.exe
+D:\ВУЗ\2 курс\c#\лаб 2 Программирование ветвлений на С#\csharp_2\csharp_2\obj\Debug\csharp_2.pdb
+C:\Users\admin\Desktop\csharp_2\csharp_2\bin\Debug\csharp_2.exe.config
+C:\Users\admin\Desktop\csharp_2\csharp_2\bin\Debug\csharp_2.exe
+C:\Users\admin\Desktop\csharp_2\csharp_2\bin\Debug\csharp_2.pdb
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.Form1.resources
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.Form2.resources
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.Form3.resources
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.Form4.resources
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.Properties.Resources.resources
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.exe
+C:\Users\admin\Desktop\csharp_2\csharp_2\obj\Debug\csharp_2.pdb
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\bin\Debug\csharp_2.exe.config
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\bin\Debug\csharp_2.exe
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\bin\Debug\csharp_2.pdb
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.csproj.AssemblyReference.cache
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.Form1.resources
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.Form2.resources
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.Form3.resources
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.Form4.resources
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.Properties.Resources.resources
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.csproj.GenerateResource.cache
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.csproj.CoreCompileInputs.cache
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.exe
+C:\Users\Amur\Desktop\Лаб 2\csharp_2\obj\Debug\csharp_2.pdb

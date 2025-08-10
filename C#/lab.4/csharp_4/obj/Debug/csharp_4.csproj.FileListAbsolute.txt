@@ -1,0 +1,30 @@
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\bin\Debug\csharp_4.exe.config
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\bin\Debug\csharp_4.exe
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\bin\Debug\csharp_4.pdb
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\obj\Debug\csharp_4.csprojAssemblyReference.cache
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\obj\Debug\csharp_4.Form1.resources
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\obj\Debug\csharp_4.Properties.Resources.resources
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\obj\Debug\csharp_4.csproj.GenerateResource.cache
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\obj\Debug\csharp_4.csproj.CoreCompileInputs.cache
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\obj\Debug\csharp_4.exe
+C:\Users\Sheronov\source\repos\csharp_4\csharp_4\obj\Debug\csharp_4.pdb
+E:\ао\C#\С# все работы\csharp_4\csharp_4\bin\Debug\csharp_4.exe.config
+E:\ао\C#\С# все работы\csharp_4\csharp_4\bin\Debug\csharp_4.exe
+E:\ао\C#\С# все работы\csharp_4\csharp_4\bin\Debug\csharp_4.pdb
+E:\ао\C#\С# все работы\csharp_4\csharp_4\obj\Debug\csharp_4.csproj.AssemblyReference.cache
+E:\ао\C#\С# все работы\csharp_4\csharp_4\obj\Debug\csharp_4.Form1.resources
+E:\ао\C#\С# все работы\csharp_4\csharp_4\obj\Debug\csharp_4.Properties.Resources.resources
+E:\ао\C#\С# все работы\csharp_4\csharp_4\obj\Debug\csharp_4.csproj.GenerateResource.cache
+E:\ао\C#\С# все работы\csharp_4\csharp_4\obj\Debug\csharp_4.csproj.CoreCompileInputs.cache
+E:\ао\C#\С# все работы\csharp_4\csharp_4\obj\Debug\csharp_4.exe
+E:\ао\C#\С# все работы\csharp_4\csharp_4\obj\Debug\csharp_4.pdb
+C:\Users\admin\Desktop\csharp_4\csharp_4\bin\Debug\csharp_4.exe.config
+C:\Users\admin\Desktop\csharp_4\csharp_4\bin\Debug\csharp_4.exe
+C:\Users\admin\Desktop\csharp_4\csharp_4\bin\Debug\csharp_4.pdb
+C:\Users\admin\Desktop\csharp_4\csharp_4\obj\Debug\csharp_4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\csharp_4\csharp_4\obj\Debug\csharp_4.Form1.resources
+C:\Users\admin\Desktop\csharp_4\csharp_4\obj\Debug\csharp_4.Properties.Resources.resources
+C:\Users\admin\Desktop\csharp_4\csharp_4\obj\Debug\csharp_4.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\csharp_4\csharp_4\obj\Debug\csharp_4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csharp_4\csharp_4\obj\Debug\csharp_4.exe
+C:\Users\admin\Desktop\csharp_4\csharp_4\obj\Debug\csharp_4.pdb

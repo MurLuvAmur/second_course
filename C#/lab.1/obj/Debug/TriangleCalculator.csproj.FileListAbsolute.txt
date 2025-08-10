@@ -1,0 +1,9 @@
+C:\Users\admin\Videos\TriangleCalculator\bin\Debug\TriangleCalculator.exe.config
+C:\Users\admin\Videos\TriangleCalculator\bin\Debug\TriangleCalculator.exe
+C:\Users\admin\Videos\TriangleCalculator\bin\Debug\TriangleCalculator.pdb
+C:\Users\admin\Videos\TriangleCalculator\obj\Debug\TriangleCalculator.csproj.AssemblyReference.cache
+C:\Users\admin\Videos\TriangleCalculator\obj\Debug\TriangleCalculator.Properties.Resources.resources
+C:\Users\admin\Videos\TriangleCalculator\obj\Debug\TriangleCalculator.csproj.GenerateResource.cache
+C:\Users\admin\Videos\TriangleCalculator\obj\Debug\TriangleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Videos\TriangleCalculator\obj\Debug\TriangleCalculator.exe
+C:\Users\admin\Videos\TriangleCalculator\obj\Debug\TriangleCalculator.pdb

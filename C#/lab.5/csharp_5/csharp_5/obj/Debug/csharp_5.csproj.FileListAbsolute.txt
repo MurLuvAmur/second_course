@@ -1,0 +1,36 @@
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\bin\Debug\csharp_5.exe.config
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\bin\Debug\csharp_5.exe
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\bin\Debug\csharp_5.pdb
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.csprojAssemblyReference.cache
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.Form1.resources
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.Properties.Resources.resources
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.csproj.GenerateResource.cache
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.csproj.CoreCompileInputs.cache
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.exe
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.pdb
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.Form2.resources
+C:\Users\Sheronov\source\repos\csharp_5\csharp_5\obj\Debug\csharp_5.Form3.resources
+E:\ао\C#\С# все работы\csharp_5\csharp_5\bin\Debug\csharp_5.exe.config
+E:\ао\C#\С# все работы\csharp_5\csharp_5\bin\Debug\csharp_5.exe
+E:\ао\C#\С# все работы\csharp_5\csharp_5\bin\Debug\csharp_5.pdb
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.csproj.AssemblyReference.cache
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.Form1.resources
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.Form2.resources
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.Form3.resources
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.Properties.Resources.resources
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.csproj.GenerateResource.cache
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.csproj.CoreCompileInputs.cache
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.exe
+E:\ао\C#\С# все работы\csharp_5\csharp_5\obj\Debug\csharp_5.pdb
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\bin\Debug\csharp_5.exe.config
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\bin\Debug\csharp_5.exe
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\bin\Debug\csharp_5.pdb
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.Form1.resources
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.Form2.resources
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.Form3.resources
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.Properties.Resources.resources
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.exe
+C:\Users\admin\Desktop\лаб 5 Работа с двумерными массивами и массивами символов на С#\csharp_5\csharp_5\obj\Debug\csharp_5.pdb
