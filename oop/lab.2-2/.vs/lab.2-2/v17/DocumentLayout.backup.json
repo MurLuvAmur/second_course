@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amur\\Documents\\GitHub\\second_course\\oop\\lab.2-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF449C7-BB3D-404C-A0DF-3786A99E2574}|lab.2-2.vcxproj|C:\\Users\\Amur\\Documents\\GitHub\\second_course\\oop\\lab.2-2\\lab.2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FF449C7-BB3D-404C-A0DF-3786A99E2574}|lab.2-2.vcxproj|solutionrelative:lab.2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab.2-2.cpp",
+              "DocumentMoniker": "C:\\Users\\Amur\\Documents\\GitHub\\second_course\\oop\\lab.2-2\\lab.2-2.cpp",
+              "RelativeDocumentMoniker": "lab.2-2.cpp",
+              "ToolTip": "C:\\Users\\Amur\\Documents\\GitHub\\second_course\\oop\\lab.2-2\\lab.2-2.cpp*",
+              "RelativeToolTip": "lab.2-2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-10T12:45:11.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
